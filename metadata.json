@@ -1,0 +1,6 @@
+{
+  "name": "Lavandaria D&D — O Cuidado Que Se Nota",
+  "description": "Lavandaria profissional em Camama, Luanda. Lavagem, secagem, engomadoria, roupa de cama e banho, fardamentos empresariais e recolha e entrega ao domicílio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
